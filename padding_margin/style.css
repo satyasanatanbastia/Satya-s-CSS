@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d1{
+ height: 100vh;
+ width: 100%;
+ padding: 1px;
+ background-image: url(im1.jpg);
+ background-size: cover;
+
+}
+
+p{
+    height: 18%;
+    width: 50%;
+    border: 5px solid black;
+    padding: 15px;
+    /* color: whitesmoke; */
+    background-color:rgb(221, 245, 185);
+}
+.p1{
+    margin:  10px 10px 10px 10px;
+    margin-left: 200px;
+}
+.p2{
+    margin:  10px 10px 10px 10px;
+    margin-left: 200px;
+}
